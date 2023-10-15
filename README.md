@@ -1,86 +1,97 @@
 
-# SSH-PLUS ⚡
+<p align="center">
+  <img src="https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0" alt="SSH-PLUS Logo">
+</p>
 
-![Telegram](https://img.shields.io/badge/Telegram-%40TURBONE2023-blue)
-![Proxy](https://img.shields.io/badge/NOVO%20PROXY-DTUNNEL%20V2%20MOD-green)
-![Security](https://img.shields.io/badge/WEBSOCKET-SECURITY-green)
-![V2ray](https://img.shields.io/badge/V2RAY-FUNCIONANDO-blue)
-![Checkuser](https://img.shields.io/badge/CHECKUSER-CONECTA4G-blue)
-![GL Tunnel](https://img.shields.io/badge/CHECKUSER-GL%20TUNNEL%20MOD-blue)
-![AnyVPN](https://img.shields.io/badge/CHECKUSER-ANYVPN%20MOD-blue)
-![BadVPN](https://img.shields.io/badge/BADVPN-PRO-green)
-![Apache](https://img.shields.io/badge/MENU-APACHE-green)
-![Consumo](https://img.shields.io/badge/MOSTRADOR%20DE-CONSUMO-green)
-![Tweaker](https://img.shields.io/badge/TCPTWEAKER-blue)
-![Swap](https://img.shields.io/badge/MEMÓRIA-SWAP-blue)
-![Firewall](https://img.shields.io/badge/FIREWALL-ORACLE-blue)
+<h1 align="center">SSH-PLUS ⚡</h1>
 
-## :heavy_exclamation_mark: Requisitos
+<h3 align="center">
+  TELEGRAM @TURBONE2023
+</h3>
 
-* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
-* Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
-* Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
-* Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Recomenda-se usar uma distro nova ou formatada
-* O idioma padrão é o Português
+<p align="center">
+  ✅ NOVO PROXY DTUNNEL V2 MOD<br>
+  ✅ WEBSOCKET SECURITY<br>
+  ✅ V2RAY FUNCIONANDO<br>
+  ✅ CHECKUSER CONECTA4G<br>
+  ✅ CHECKUSER GL TUNNEL MOD<br>
+  ✅ CHECKUSER ANYVPN MOD<br>
+  ✅ BADVPN PRO<br>
+  ✅ MENU APACHE<br>
+  ✅ MOSTRADOR DE CONSUMO<br>
+  ✅ TCPTWEAKER<br>
+  ✅ MEMÓRIA SWAP<br>
+  ✅ FIREWALL ORACLE
+</p>
 
-# Entrar e definir como Usuário root usar comando abaixo:
+<h2>:heavy_exclamation_mark: Requisitos</h2>
 
-```shell
+- Um sistema operacional baseado em Linux (Ubuntu ou Debian)
+- Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
+- Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
+- Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
+- Recomenda-se usar uma distro nova ou formatada
+- O idioma padrão é o Português
+
+<h2>Entrar e definir como Usuário root usar comando abaixo:</h2>
+
+```bash
 sudo -i
 ```
 
-# ALTERAR SENHA ROOT VPS...
+<h2>ALTERAR SENHA ROOT VPS...</h2>
 
-```shell
+```bash
 bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/senharoot.sh)
 ```
 
-# SSH-PLUS 2023 INSTALAÇÃO
+<h2>SSH-PLUS 2023 INSTALAÇÃO</h2>
 
-# ATUALIZAR SISTEMA E INSTALAR SCRIPT SSH-PLUS 2023!
+<h3>ATUALIZAR SISTEMA E INSTALAR SCRIPT SSH-PLUS 2023!</h3>
 
-```shell
+```bash
 apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
 ```
 
-# ########################################################################################################################
+<h2>BOT WHATSAPP DE VENDAS SSH</h2>
 
-# BOT WHATSAPP DE VENDAS SSH
+<p align="center">
+  <img src="https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0" alt="Bot WhatsApp Vendas SSH">
+</p>
 
-![Bot Image](https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0)
+<h3>Testado nos ubuntus 18 e 20</h3>
 
-# Testado nos ubuntus 18 e 20
+<h3>🛠️ Instalação</h3>
 
-## 🛠️ Instalação
-
-### Parte 1
+<h4>Parte 1</h4>
 Use o comando abaixo para instalar/atualizar o bot e suas dependências⤵️
-```shell
+```bash
 sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/PhoenixxZ2023/WaBot-VendasSSH/main/install.sh)
 ```
 
-### Parte 2
+<h4>Parte 2</h4>
 Use o comando abaixo para mudar a versão do nodejs⤵️
-```shell
+```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
-
-Após colocar o comando, saia da vps e entre novamente, em seguida coloque o comando abaixo ⤵️
-
-```shell
+Após colocar o comando, saia da VPS e entre novamente, em seguida coloque o comando abaixo ⤵️
+```bash
 nvm install 16
 ```
 
-### 👨‍🏫 Instruções
-Após terminar a instalação, digite o comando `qrcode` e leia o Qrcode que irá aparecer no terminal, após ler o Qrcode espere uns 5 segundos e dê um CTRL+c para sair desta parte, agora digite `onbot` para ativar o bot, para desativar é só digitar `offbot`, edite seus dados no arquivo `config.js`, sempre que editar os dados, reinicie o bot, basta digitar `onbot`, o bot não tem autostart, então toda vez que sua vps desligar você terá que ativar manualmente com o comando `onbot`
+<h3>👨‍🏫 Instruções</h3>
+Após terminar a instalação, digite o comando `qrcode` e leia o QR code que irá aparecer no terminal, após ler o QR code espere uns 5 segundos e dê um CTRL+C para sair desta parte, agora digite `onbot` para ativar o bot. Para desativar, é só digitar `offbot`. Edite seus dados no arquivo `config.js`, sempre que editar os dados, reinicie o bot, basta digitar `onbot`. O bot não tem autostart, então toda vez que sua VPS desligar você terá que ativar manualmente com o comando `onbot`.
 
-### 📌 Obs
-- Use na mesma vps do SSH
+<h3>📌 Obs</h3>
 
-### 📝 Complemento
+- Use na mesma VPS do SSH
 
-- Como instalar e configurar: [Assista ao tutorial](https://youtu.be/0SiM7FX76xg?si=fAPo6nTQDWnBRBBK)
+<h3>📝 Complemento</h3>
 
-- Como obter o token do mercado pago: [Assista ao tutorial](https://youtu.be/nA4gP6NcF_o?si=f0jfeelvjpJ87FXS)
+- Como instalar e configurar:
+  [Vídeo Tutorial](https://youtu.be/0SiM7FX76xg?si=fAPo6nTQDWnBRBBK)
+
+- Como obter o token do mercado pago:
+  [Vídeo Tutorial](https://youtu.be/nA4gP6NcF_o?si=f0jfeelvjpJ87FXS)
 ```
+
