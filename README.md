@@ -1,30 +1,26 @@
+Claro, aqui está o seu README.md estilizado com algumas melhorias visuais e links:
 
-<p align="center">
-  <img src="https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0" alt="SSH-PLUS Logo">
-</p>
+```markdown
+# SSH-PLUS ⚡
 
-<h1 align="center">SSH-PLUS ⚡</h1>
+[![Telegram](https://img.shields.io/badge/Telegram-%40TURBONE2023-blue.svg)](https://t.me/TURBONE2023)
 
-<h3 align="center">
-  TELEGRAM @TURBONE2023
-</h3>
+**Novidades:**
 
-<p align="center">
-  ✅ NOVO PROXY DTUNNEL V2 MOD<br>
-  ✅ WEBSOCKET SECURITY<br>
-  ✅ V2RAY FUNCIONANDO<br>
-  ✅ CHECKUSER CONECTA4G<br>
-  ✅ CHECKUSER GL TUNNEL MOD<br>
-  ✅ CHECKUSER ANYVPN MOD<br>
-  ✅ BADVPN PRO<br>
-  ✅ MENU APACHE<br>
-  ✅ MOSTRADOR DE CONSUMO<br>
-  ✅ TCPTWEAKER<br>
-  ✅ MEMÓRIA SWAP<br>
-  ✅ FIREWALL ORACLE
-</p>
+✅ Novo Proxy DTUNNEL V2 Mod
+✅ WebSocket Security
+✅ V2Ray Funcionando
+✅ Checkuser Conecta4G
+✅ Checkuser GL Tunnel Mod
+✅ Checkuser AnyVPN Mod
+✅ BadVPN Pro
+✅ Menu Apache
+✅ Mostrador de Consumo
+✅ TCPTweaker
+✅ Memória Swap
+✅ Firewall Oracle
 
-<h2>:heavy_exclamation_mark: Requisitos</h2>
+## :heavy_exclamation_mark: Requisitos
 
 - Um sistema operacional baseado em Linux (Ubuntu ou Debian)
 - Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
@@ -33,65 +29,70 @@
 - Recomenda-se usar uma distro nova ou formatada
 - O idioma padrão é o Português
 
-<h2>Entrar e definir como Usuário root usar comando abaixo:</h2>
+### Entrar e definir como Usuário root usar comando abaixo:
 
 ```bash
 sudo -i
 ```
 
-<h2>ALTERAR SENHA ROOT VPS...</h2>
+### Alterar senha root VPS...
 
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/senharoot.sh)
 ```
 
-<h2>SSH-PLUS 2023 INSTALAÇÃO</h2>
+# SSH-PLUS 2023 Instalação
 
-<h3>ATUALIZAR SISTEMA E INSTALAR SCRIPT SSH-PLUS 2023!</h3>
+### Atualizar sistema e instalar script SSH-PLUS 2023!
 
 ```bash
 apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
 ```
 
-<h2>BOT WHATSAPP DE VENDAS SSH</h2>
+---
 
-<p align="center">
-  <img src="https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0" alt="Bot WhatsApp Vendas SSH">
-</p>
+## Bot WhatsApp de Vendas SSH
 
-<h3>Testado nos ubuntus 18 e 20</h3>
+![WhatsApp Bot](https://github.com/PhoenixxZ2023/PLUS/assets/101994539/18f9664c-458e-4a0f-a27b-96e64587cba0)
 
-<h3>🛠️ Instalação</h3>
+### Testado nos Ubuntus 18 e 20
 
-<h4>Parte 1</h4>
-Use o comando abaixo para instalar/atualizar o bot e suas dependências⤵️
+#### 🛠️ Instalação
+
+##### Parte 1
+
+Use o comando abaixo para instalar/atualizar o bot e suas dependências:
+
 ```bash
 sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/PhoenixxZ2023/WaBot-VendasSSH/main/install.sh)
 ```
 
-<h4>Parte 2</h4>
-Use o comando abaixo para mudar a versão do nodejs⤵️
+##### Parte 2
+
+Use o comando abaixo para mudar a versão do nodejs:
+
 ```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
-Após colocar o comando, saia da VPS e entre novamente, em seguida coloque o comando abaixo ⤵️
+
+Após colocar o comando, saia da VPS e entre novamente, em seguida coloque o comando abaixo:
+
 ```bash
 nvm install 16
 ```
 
-<h3>👨‍🏫 Instruções</h3>
-Após terminar a instalação, digite o comando `qrcode` e leia o QR code que irá aparecer no terminal, após ler o QR code espere uns 5 segundos e dê um CTRL+C para sair desta parte, agora digite `onbot` para ativar o bot. Para desativar, é só digitar `offbot`. Edite seus dados no arquivo `config.js`, sempre que editar os dados, reinicie o bot, basta digitar `onbot`. O bot não tem autostart, então toda vez que sua VPS desligar você terá que ativar manualmente com o comando `onbot`.
+#### 👨‍🏫 Instruções
 
-<h3>📌 Obs</h3>
+Após terminar a instalação, digite o comando `qrcode` e leia o Qrcode que irá aparecer no terminal, após ler o Qrcode espere uns 5 segundos e dê um CTRL+C para sair desta parte, agora digite `onbot` para ativar o bot, para desativar é só digitar `offbot`, edite seus dados no arquivo `config.js`, sempre que editar os dados, reinicie o bot, basta digitar `onbot`, o bot não tem autostart, então toda vez que sua VPS desligar você terá que ativar manualmente com o comando `onbot`
+
+#### 📌 Obs
 
 - Use na mesma VPS do SSH
 
-<h3>📝 Complemento</h3>
+#### 📝 Complemento
 
-- Como instalar e configurar:
-  [Vídeo Tutorial](https://youtu.be/0SiM7FX76xg?si=fAPo6nTQDWnBRBBK)
-
-- Como obter o token do mercado pago:
-  [Vídeo Tutorial](https://youtu.be/nA4gP6NcF_o?si=f0jfeelvjpJ87FXS)
+- Como instalar e configurar: [Assista ao vídeo](https://youtu.be/0SiM7FX76xg?si=fAPo6nTQDWnBRBBK)
+- Como obter o token do mercado pago: [Assista ao vídeo](https://youtu.be/nA4gP6NcF_o?si=f0jfeelvjpJ87FXS)
 ```
 
+Isso deve tornar o seu README.md mais atraente e informativo. Certifique-se de que os links estejam funcionando corretamente.
