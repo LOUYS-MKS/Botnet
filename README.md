@@ -1,6 +1,4 @@
-Claro, aqui está o seu README.md estilizado com algumas melhorias visuais e links:
 
-```markdown
 # SSH-PLUS ⚡
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40TURBONE2023-blue.svg)](https://t.me/TURBONE2023)
@@ -95,4 +93,4 @@ Após terminar a instalação, digite o comando `qrcode` e leia o Qrcode que ir�
 - Como obter o token do mercado pago: [Assista ao vídeo](https://youtu.be/nA4gP6NcF_o?si=f0jfeelvjpJ87FXS)
 ```
 
-Isso deve tornar o seu README.md mais atraente e informativo. Certifique-se de que os links estejam funcionando corretamente.
+
